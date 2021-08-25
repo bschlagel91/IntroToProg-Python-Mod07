@@ -5,7 +5,7 @@ List of Links:
 
 -GITHUB Repository: https://github.com/bschlagel91/IntroToProg-Python-Mod07
 
--GITHUB Website: 
+-GITHUB Website: https://github.com/bschlagel91/IntroToProg-Python-Mod07/blob/96bc7b11c69aff98a3314ecfd21ba43be44aec0c/index.md
 
 -Pickling Resource: https://www.datacamp.com/community/tutorials/pickle-python-tutorial#what
 
